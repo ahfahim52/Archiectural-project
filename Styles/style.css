@@ -1,0 +1,16 @@
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.first{
+    border: 5px solid brown;
+    background-color: bisque;
+    max-width: 1920px;
+    height: 1322px;
+}
+.first-01{
+    text-decoration: none;
+}
